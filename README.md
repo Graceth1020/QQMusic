@@ -22,7 +22,7 @@
 
 本项目部署:
 
-`git clone git@github.com:xjk971020/QQMusic.git`
+`git clone git@github.com:Graceth1020/QQMusic.git`
 
 进入项目根目录下安装依赖:
 
@@ -84,36 +84,36 @@
 
 ### 精选部分
 
-![](http://cdn.cathetine.cn/image/qqmusic/1.jpg)
+![](https://raw.githubusercontent.com/Graceth1020/img-host/main/QQMusic/old/1.jpg)
 
 ### 排行部分
 
-![](http://cdn.cathetine.cn/image/qqmusic/2.jpg)
+![](https://raw.githubusercontent.com/Graceth1020/img-host/main/QQMusic/old/2.jpg)
 
-![](http://cdn.cathetine.cn/image/qqmusic/3.jpg)
+![](https://raw.githubusercontent.com/Graceth1020/img-host/main/QQMusic/old/3.jpg)
 
 ### 歌单部分
 
-![](http://cdn.cathetine.cn/image/qqmusic/4.jpg)
+![](https://raw.githubusercontent.com/Graceth1020/img-host/main/QQMusic/old/4.jpg)
 
-![](http://cdn.cathetine.cn/image/qqmusic/5.jpg)
+![](https://raw.githubusercontent.com/Graceth1020/img-host/main/QQMusic/old/5.jpg)
 
-![](http://cdn.cathetine.cn/image/qqmusic/6.jpg)
+![](https://raw.githubusercontent.com/Graceth1020/img-host/main/QQMusic/old/6.jpg)
 
 ### 歌手部分
 
-![](http://cdn.cathetine.cn/image/qqmusic/7.jpg)
+![](https://raw.githubusercontent.com/Graceth1020/img-host/main/QQMusic/old/7.jpg)
 
-![](http://cdn.cathetine.cn/image/qqmusic/8.jpg)
+![](https://raw.githubusercontent.com/Graceth1020/img-host/main/QQMusic/old/8.jpg)
 
 ### 播放历史
 
-![](http://cdn.cathetine.cn/image/qqmusic/9.jpg)
+![](https://raw.githubusercontent.com/Graceth1020/img-host/main/QQMusic/old/9.jpg)
 
 ### 我的收藏
 
-![](http://cdn.cathetine.cn/image/qqmusic/10.jpg)
+![](https://raw.githubusercontent.com/Graceth1020/img-host/main/QQMusic/old/10.jpg)
 
 ### 搜索结果
 
-![](http://cdn.cathetine.cn/image/qqmusic/11.jpg)
+![](https://raw.githubusercontent.com/Graceth1020/img-host/main/QQMusic/old/11.jpg)
